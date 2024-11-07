@@ -4,3 +4,4 @@ uploaded_files
 .env
 src.egg-info
 pdf_process_dir
+.streamlit
